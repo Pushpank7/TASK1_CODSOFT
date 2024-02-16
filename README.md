@@ -26,18 +26,16 @@ This project is a personal portfolio website created using HTML, CSS, and JavaSc
 2. CSS (Cascading Style Sheets):
 
 - CSS is used for styling and presentation, enhancing the visual appearance of your website.
-- Create CSS styles to customize the fonts, colors, spacing, and layout of your portfolio elements.
-- Consider using CSS frameworks like Bootstrap or 
+- Create CSS styles to customize the fonts, colors, spacing, and layout of your portfolio elements. 
 3. JavaScript:
+  
+- JavaScript adds interactivity and dynamic behavior to your website, making it more engaging for visitors.
+- Implement JavaScript to handle user interactions, such as animations, form validation, and dynamic content loading.
+4. Google Sheets Integration:
 
-1. JavaScript adds interactivity and dynamic behavior to your website, making it more engaging for visitors.
-2. Implement JavaScript to handle user interactions, such as animations, form validation, and dynamic content loading.
-3. Utilize JavaScript libraries or frameworks like 
-5. Google Sheets Integration:
-
-1. Use the Google Sheets API to fetch data from a Google Sheets document and display it on your portfolio website.
-2. Set up your Google Sheets document with columns for different pieces of information, such as project name, description, URL, etc.
-3. Write JavaScript code to make API requests to Google Sheets, retrieve data, and dynamically populate your portfolio content based on the spreadsheet data.
+- Use the Google Sheets API to fetch data from a Google Sheets document and display it on your portfolio website.
+- Set up your Google Sheets document with columns for different pieces of information, such as project name, description, URL, etc.
+- Write JavaScript code to make API requests to Google Sheets, retrieve data, and dynamically populate your portfolio content based on the spreadsheet data.
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
