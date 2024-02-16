@@ -46,7 +46,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 - For any inquiries or collaboration opportunities, feel free to reach out to me at pushpankkumar005@gmail.com.
 ## Usages:
 
-- Clone the repository: git clone https://github.com/Pushpank7/TAST1_CODSOFT/
+- Clone the repository: git clone
 - Navigate to the project directory: cd portfolio
 - Open the index.html file in your web browser to view the website.
 ```
